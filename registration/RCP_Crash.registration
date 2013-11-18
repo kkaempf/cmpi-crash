@@ -1,0 +1,6 @@
+#
+# Registration for provider RCP_Crash of class RCP_Crash
+#
+#
+# Classname - Namespace - Providername - Libraryname - Capabilities ...
+RCP_Crash root/cimv2 RCP_Crash crashProvider instance

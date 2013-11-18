@@ -1,0 +1,5 @@
+[RCP_Crash]
+  location: crashProvider
+  provider: RCP_Crash
+  type: instance
+  namespace: root/cimv2

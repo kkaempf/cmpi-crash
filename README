@@ -1,0 +1,4 @@
+This is a CMPI instance provider which just abort()s on
+EnumInstanceNames. All other callbacks are NULL.
+
+This provider is used to test sfcb robustness on buggy providers.

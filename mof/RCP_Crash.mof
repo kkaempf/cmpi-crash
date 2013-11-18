@@ -1,0 +1,13 @@
+//
+// RCP_Crash.mof - A crashing instance
+//
+//
+
+#pragma locale ("en_US")
+//#pragma namespace ("root/cimv2")
+
+[ Description ("A crashing instancd" )
+]
+class RCP_Crash : CIM_ManagedElement
+{
+};
